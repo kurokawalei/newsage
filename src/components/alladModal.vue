@@ -14,7 +14,7 @@
         >
           <h5 id="productModalLabel" class="modal-title text-center">
             <span v-if="isNew">新增文章</span>
-            <span v-else style="color: #000">編輯文章</span>
+            <span v-else style="color: #000">編輯文章</span> 
           </h5>
           <button
             type="button"
